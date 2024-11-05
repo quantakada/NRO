@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+.header {
+	width: 55%;
+	background-color: #FB6B0A;
+    border: 2px solid rgb(0, 0, 0);
+	border-radius: 20px;
+	text-align: center;
+	font-style: inherit;
+	margin: auto;
+	border: 0;
+}
+.div1 {
+    width: 40%;
+    background-color: #FB6B0A;
+    margin: auto;
+}
+.div2 {
+    width: 40%;
+    background-color: #FB6B0A;
+	margin: auto;
+}
+.div3 {
+	width: 40%;
+	background-color: #FB6B0A;
+	margin: auto;
+}
+.p1 {
+    margin-left: 179px;
+    margin-top: -187px;
+}
+.p2 {
+    margin-left: 179px;
+    margin-top: -18px;
+}
+.p3{
+    margin-left: 179px;
+    margin-top: -20px;
+}
+.imggioithieu2 {
+    margin-top: -150px;
+
+	
+}
+.imggioithieu1 {
+    margin-top: 15px;
+	
+}
+.skill1 {
+    margin-top: -182px;
+    margin-right: -155px;
+	
+}
